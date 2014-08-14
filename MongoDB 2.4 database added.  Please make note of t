@@ -1,0 +1,18 @@
+MongoDB 2.4 database added.  Please make note of these credentials:
+
+   Root User:     admin
+   Root Password: VExIlAdZzlCL
+   Database Name: nodejs
+
+Connection URL: mongodb://$OPENSHIFT_MONGODB_DB_HOST:$OPENSHIFT_MONGODB_DB_PORT/
+
+
+Jenkins created successfully.  Please make note of these credentials:
+
+   User: admin
+   Password: ctYGlQw14fra
+
+Note:  You can change your password at: https://jenkins-encrafttest.rhcloud.com/me/configure
+
+
+ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA1MSSilD5tH1qOuX9fPfjsD4w+8A353CqBjeYGAHdsw/vIwYPtBs6S69Fxz21BsSs79ipl3MdK+oxaAkX03SSnrG55M56SDjnpOKatOwSw9FUBsXFc4mR33X6yFrWTQ4sFYlEm6M9PGj+heWlG6UC9lLMAnC73dWlXN5g5Djv6WajAZ9kV/xf7yGD/lybdvzOWGvkbmqs+0/5s2VgrEydiimr2a0gq74jEiY6iKgTBBE9MC6WrEBx8SL3DNBss+MSjGvlN4Jp2rjnuUM1mYQ3IJWfHGz1GE+tdJSeOqwUiXkQ44fpQhqQBaNObaL3BW6EqE7UGtajHF0veVws+cLrbQ== james.perry@ENCRAFT51-PC
